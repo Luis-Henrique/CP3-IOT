@@ -41,8 +41,8 @@ const char* ID        = "code_craze";
 const char* moduleID  = "esp32_q4";
 
 // Wi-Fi
-const char* SSID      = "5G_LUIZ";
-const char* PASSWORD  = "3613642047";
+const char* SSID      = "Wokwi-GUEST";
+const char* PASSWORD  = "";
 
 // MQTT Broker
 const char* BROKER_MQTT  = "20.186.114.150";
